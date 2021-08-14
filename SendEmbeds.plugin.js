@@ -19,7 +19,7 @@
         version: '1.1.0',
         description: 'Allows you to send embeds',
         github: 'https://github.com/DEVTOOL877/SendEmbedsDiscordPlugin/',
-        github_raw: 'https://raw.githubusercontent.com/DEVTOOL877/SendEmbedsDiscordPlugin/main/SendEmbedsDiscordPlugin.plugin.js'
+        github_raw: 'https://raw.githubusercontent.com/DEVTOOL877/SendEmbedsDiscordPlugin/main/SendEmbeds.plugin.js'
     }
 };
 
