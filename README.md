@@ -1,7 +1,7 @@
 SendEmbedsDiscord
 
 A plugin for Better Discord that allows you to send fancy embed messages like this:
-![Embed Example](https://raw.githubusercontent.com/Fraserbc/BetterDiscord-Embeds/master/images/embed_example1.PNG)
+![Embed Example](https://raw.githubusercontent.com/DEVTOOL877/SendEmbedsDiscordPlugin/main/embed_example1.png)
 
 # Disclaimer!
 ## It is possible that Discord will ban and delete your account for using this plugin
