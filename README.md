@@ -1,7 +1,6 @@
-f Discord-Embeds
+SendEmbedsDiscord
 
 A plugin for Better Discord that allows you to send fancy embed messages like this:
-
 ![Embed Example](https://raw.githubusercontent.com/Fraserbc/BetterDiscord-Embeds/master/images/embed_example1.PNG)
 
 # Disclaimer!
@@ -56,9 +55,3 @@ The same way you do it normally with `Shift + Enter`.
 ## It's not working and I don't know why!?
 
 Create an issue with all the details you can give and I will respond as soon as possible.
-
-# Credit
-
-I would like to give credit to Septeract, https://github.com/hepteract/, as he originally wrote the code this is based off. Here is the original gist for anyone interested.
-
-https://gist.github.com/hepteract/8d9199a6a154dd32a1c4ced97de76043
