@@ -3,8 +3,8 @@
  * @author ミ★ 𝘛𝘌𝘟𝘐𝘛 ★彡#9225
  * @version 1.0.0
  * @description Allows you to send embeds
- * @website https://github.com/Fraserbc
- * @source https://github.com/Fraserbc/BetterDiscord-Embeds/blob/master/SendEmbeds.plugin.js
+ * @website https://github.com/DEVTOOL877/
+ * @source https://github.com/DEVTOOL877/SendEmbedsDiscordPlugin/blob/main/Plugin
  */
  
  const config = {
@@ -12,14 +12,12 @@
         name: 'SendEmbeds',
         authors: [
             {
-                name: 'Fraser Price',
-                github_username: 'Fraserbc'
+                name: '𝘛𝘌𝘟𝘐𝘛 Price',
+                github_username: 'DEVTOOL877'
             }
         ],
-        version: '2.1.0',
+        version: '1.1.0',
         description: 'Allows you to send embeds',
-        github: 'https://github.com/Fraserbc/BetterDiscord-Embeds',
-        github_raw: 'https://raw.githubusercontent.com/Fraserbc/BetterDiscord-Embeds/master/SendEmbeds.plugin.js'
     }
 };
 
