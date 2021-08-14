@@ -3,7 +3,7 @@
  * @author ミ★ 𝘛𝘌𝘟𝘐𝘛 ★彡#9225
  * @version 1.0.0
  * @description Allows you to send embeds
- * @website https://github.com/DEVTOOL877/
+ * @website https://github.com/DEVTOOL877/SendEmbedsDiscordPlugin/
  * @source https://github.com/DEVTOOL877/SendEmbedsDiscordPlugin/blob/main/Plugin
  */
  
@@ -16,8 +16,10 @@
                 github_username: 'DEVTOOL877'
             }
         ],
-        version: '1.1.0',
+        version: '2.1.0',
         description: 'Allows you to send embeds',
+        github: 'https://github.com/DEVTOOL877/SendEmbedsDiscordPlugin/',
+        github_raw: 'https://raw.githubusercontent.com/Fraserbc/BetterDiscord-Embeds/master/SendEmbeds.plugin.js'
     }
 };
 
