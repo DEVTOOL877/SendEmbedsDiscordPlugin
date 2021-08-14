@@ -12,14 +12,14 @@
         name: 'SendEmbeds',
         authors: [
             {
-                name: '𝘛𝘌𝘟𝘐𝘛 Price',
+                name: 'ミ★ 𝘛𝘌𝘟𝘐𝘛 ★彡#9225',
                 github_username: 'DEVTOOL877'
             }
         ],
-        version: '2.1.0',
+        version: '1.1.0',
         description: 'Allows you to send embeds',
         github: 'https://github.com/DEVTOOL877/SendEmbedsDiscordPlugin/',
-        github_raw: 'https://raw.githubusercontent.com/Fraserbc/BetterDiscord-Embeds/master/SendEmbeds.plugin.js'
+        github_raw: 'https://raw.githubusercontent.com/DEVTOOL877/SendEmbedsDiscordPlugin/main/SendEmbedsDiscordPlugin.plugin.js'
     }
 };
 
